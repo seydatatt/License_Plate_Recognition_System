@@ -23,6 +23,10 @@ The AI model is built using a convolutional neural network (CNN) to process the 
 ## Acknowledgements
 This project was prepared with the help of Umut Kaan Başer's YouTube video. Special thanks to him for providing a detailed tutorial and guidance.
 
+##Contributors
+- [Zeynep Atçeken](https://github.com/zeynepatceken) 
+- [elifkoca2](https://github.com/elifkoca2) 
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ****
